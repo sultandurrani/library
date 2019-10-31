@@ -1,2 +1,2 @@
 # library
-Library Java Program
+The program presents a user with a predetermined list of books to check out. The user can check out any book for a week. When returning a book, the program will charge an appropriate late fee if the user had the book for longer than a week ($0.50 per day). The program also keeps a track of number of copies available for each book, incrementing or decrementing the inventory count if a customer checks out or returns a book respectively.
